@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ryan-VaST. I am a technical recruiter for Virginia Systems and Technologies Inc.
+- 👋 Hi, I’m @Ryan-VaST. I am the lead technical recruiter for Virginia Systems and Technologies Inc.
 - 👀 I’m looking for software developers/engineers that possess an array of knowledge and experience in full-stack development. 
-- 🏆 VaST needs individuals who are self-motivated and eager to work intently to satisfy mission requirements.
+- 🏆 VaST needs individuals who are self-motivated and ready to get down and dirty in the code.
 - 📫 How to reach me ... carneal.ryan@vast-inc.com
 
 <!---
